@@ -25,7 +25,7 @@
 
 ## Connect With Me
 - Email: perarasuk0108@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/perarasu-k-a989b2412
 
 <!--
 **perarasuk0108/perarasuk0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
