@@ -1,6 +1,6 @@
 # Hi, I'm Perarasu 👋
 
-🎓 Final Year BCA Student  
+🎓 Graduated BCA Student  
 💻 Interested in Python, Web Development & AI  
 🚀 Building real-world projects  
 📍 Chennai, India  
